@@ -1,0 +1,2 @@
+# Prediction-of-an-ICO-project-funded-successfully-using-Machine-Learning
+Majority of ICO crowdfunding campaigns use the ‘All-or-Nothing’ model where the ICO  team sets a fundraising goal (e.g., raise $1 million in 30 days). If they were able to raise  money to the goal, the ICO is considered a success. Otherwise, the fundraising is a failure and they keep nothing. Each ICO presents their project and team details in their campaign page. 
